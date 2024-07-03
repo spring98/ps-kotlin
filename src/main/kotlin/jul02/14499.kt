@@ -1,4 +1,4 @@
-package jul01
+package jul02
 
 /**
  * 나는 십자가 모양만 고려하여 계산하였는데

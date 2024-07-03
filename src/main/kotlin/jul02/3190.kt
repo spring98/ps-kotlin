@@ -1,4 +1,4 @@
-package jul01
+package jul02
 
 /**
  * directionPointer 의 index 가 음수가 되면
